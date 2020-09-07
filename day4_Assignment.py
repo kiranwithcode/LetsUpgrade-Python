@@ -1,3 +1,8 @@
+# Question 1
+# Print the first ArmStrong number in the range of 1042000 to 702648265 and exit the loop as soon
+# as you encounter the first armstrong number.
+# Use while loop
+
 lower = 1042000
 upper = 702648265
 
